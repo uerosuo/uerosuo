@@ -1,4 +1,9 @@
 ### Hi there 👋
+👋 Hi, I’m Umukoro Samuel
+👀 I’m interested in DevOps, and Cloud Engineering
+🌱 I’m currently learning Software Development
+💞️ I’m looking to collaborate on Global Changing projects and making Impact.
+📫 How to reach me Email: uerosuo@gmail.com, Twitter: @anh01x.
 
 <!--
 **uerosuo/uerosuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
