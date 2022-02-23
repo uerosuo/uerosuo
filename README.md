@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👋 Hi, I’m Umukoro Samuel
+- 👋 Hi, I’m Sam Umukoro.
 - 👀 I’m interested in DevOps, and Cloud Engineering
 - 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on Global Changing projects and making Impact.
